@@ -1,10 +1,10 @@
-<h1 align="center">Hola, soy Sebastian Alvarez 👋</h1>
+<h1 align="center">Hola, soy Sebastian Alvarez</h1>
 
-<h3 align="center">Estudiante de desarrollo de software | Backend | Frontend | Automatización con IA</h3>
+<h3 align="center">Estudiante de desarrollo de software | Desarrollo web | Automatización con CI/CD</h3>
 
 <p align="center">
   <a href="https://github.com/SebastianAlvarez-dev">
-    <img src="https://komarev.com/ghpvc/?username=SebastianAlvarez-dev&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+    <img src="https://komarev.com/ghpvc/?username=SebastianAlvarez-dev&label=Profile%20views&color=0e75b6&style=flat" />
   </a>
 </p>
 
@@ -13,31 +13,32 @@
 ## Sobre mí
 
 Soy estudiante enfocado en el desarrollo de aplicaciones web y sistemas inteligentes.  
-Me interesa construir soluciones útiles combinando backend, frontend, bases de datos, automatización e inteligencia artificial.
+Me interesa crear soluciones útiles combinando frontend, backend, bases de datos, automatización e inteligencia artificial.
 
-Actualmente trabajo con proyectos usando **Python, FastAPI, React, Supabase, OpenAI, Git, GitHub Actions y SonarCloud**.
+Actualmente estoy aprendiendo y desarrollando proyectos con **Python, JavaScript, React, HTML, CSS, GitHub Actions, SonarCloud e integración de APIs**.
 
 ---
 
 ## Tecnologías
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,react,javascript,html,css,git,github,mysql,supabase,vite" />
+  <img src="https://skillicons.dev/icons?i=python,react,javascript,html,css,github,vite" />
 </p>
 
 ---
 
-## Proyectos destacados
+## Proyecto destacado
 
 ### Agente de IA para Emergencias Hospitalarias
-Sistema web para analizar emergencias médicas usando IA, validación de pólizas, Supabase y alertas automáticas por Discord.
 
-- Backend con FastAPI
+Sistema web para analizar emergencias médicas usando inteligencia artificial, validación de pólizas, almacenamiento de casos y alertas automáticas.
+
 - Frontend con React + Vite
+- Backend en Python
 - Integración con OpenAI
-- Base de datos en Supabase
+- Alertas automáticas por Discord
 - Análisis de calidad con SonarCloud
-- Despliegue en Vercel y Render
+- Workflow con GitHub Actions
 
 Repositorio: [Hroyecto_Hackiathon](https://github.com/SebastianAlvarez-dev/Hroyecto_Hackiathon)
 
@@ -45,11 +46,11 @@ Repositorio: [Hroyecto_Hackiathon](https://github.com/SebastianAlvarez-dev/Hroye
 
 ## Actualmente aprendiendo
 
-- Buenas prácticas de backend
+- Desarrollo de aplicaciones web
 - Integración de APIs
 - Automatización con GitHub Actions
 - Calidad de código con SonarCloud
-- Desarrollo de aplicaciones web modernas
+- Buenas prácticas para proyectos profesionales
 
 ---
 
@@ -70,6 +71,14 @@ Repositorio: [Hroyecto_Hackiathon](https://github.com/SebastianAlvarez-dev/Hroye
 <p align="left">
   <a href="https://github.com/SebastianAlvarez-dev">
     <img src="https://img.shields.io/badge/GitHub-SebastianAlvarez--dev-black?style=for-the-badge&logo=github" />
+  </a>
+
+  <a href="https://wa.me/593989964128">
+    <img src="https://img.shields.io/badge/WhatsApp-0989964128-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+
+  <a href="https://www.instagram.com/sebastianalvarez16_09?igsh=bmJsMmZoYzBibzg=">
+    <img src="https://img.shields.io/badge/Instagram-sebastianalvarez16__09-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
