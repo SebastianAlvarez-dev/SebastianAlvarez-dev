@@ -85,5 +85,5 @@ Repositorio: [Hroyecto_Hackiathon](https://github.com/SebastianAlvarez-dev/Hroye
 ---
 
 <p align="center">
-  "Si puedes imaginarlo, puedes programarlo."
+  "El talento abre puertas, el esfuerzo las mantiene abiertas."
 </p>
